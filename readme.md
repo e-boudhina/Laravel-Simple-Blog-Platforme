@@ -11,9 +11,9 @@
  
 * php artisan --version => Laravel Framework 5.8.36
 
-This is a Simple blog platforme that allows user to authenticate , create posts with image files , the blog contains posts which are composed of three parts title and and body and and and optional image file 
+This is a Simple blog platforme that allows a user to authenticate, create posts with a thumbnail, the blog contains posts which are composed of three parts : title, body and an optional image file .
 
-Users must First register in order to get access and then perform C.R.U.D operations on posts . 
+Users must First register in order to get access and then perform C.R.U.D operations . 
 
 This project uses :
 
